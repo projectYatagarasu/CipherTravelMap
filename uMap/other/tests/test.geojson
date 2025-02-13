@@ -1,0 +1,18 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry":
+				{
+					"type": "Point",
+					"coordinates": [XXXXX,YYYYY]
+				},
+			"properties":
+				{
+					"名称": "隠岐国賀海岸",
+					"説明": "test test"
+				}
+		}
+	]
+}
